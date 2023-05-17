@@ -1,0 +1,5 @@
+F:\C#\Exercises\RomanToInt\obj\Debug\net5.0\RomanToInt.csprojAssemblyReference.cache
+F:\C#\Exercises\RomanToInt\obj\Debug\net5.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Exercises\RomanToInt\obj\Debug\net5.0\RomanToInt.AssemblyInfoInputs.cache
+F:\C#\Exercises\RomanToInt\obj\Debug\net5.0\RomanToInt.AssemblyInfo.cs
+F:\C#\Exercises\RomanToInt\obj\Debug\net5.0\RomanToInt.csproj.CoreCompileInputs.cache
